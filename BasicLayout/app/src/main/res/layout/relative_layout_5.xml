@@ -29,7 +29,7 @@
         android:layout_height="64dp"
         android:background="#0000FF"
         android:layout_below="@id/img2"
-        android:layout_toEndOf="@id/img"/>
+        android:layout_alignEnd="@id/img2"/>
 
 
 
